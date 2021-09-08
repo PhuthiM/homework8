@@ -10,7 +10,7 @@ class gamepage extends StatefulWidget {
 }
 
 class _GamePageState extends State<gamepage> {
-  String word = "";
+  String word = "ขอให้พระเจ้าอวยพรครับ";
   int i = 0;
 
   font(int a) {
